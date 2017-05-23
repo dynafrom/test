@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Test Application Table" max_length="40" name="x_8075_test_applic_test_application_table" type="collection"/>
+</database>
